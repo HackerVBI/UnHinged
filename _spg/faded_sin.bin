@@ -1,0 +1,65 @@
+
+
+
+																								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+																	
+
+
+
+[General]
+HEX=0
+Output=0
+MinVal=6
+MaxVal=18
+DataCount=256
+WaveCount=3
+[Wave1]
+Type=0
+StartAngle=0
+StopAngle=360
+Frequency=1
+Amplitude=100
+[Wave2]
+Type=0
+StartAngle=0
+StopAngle=360
+Frequency=2
+Amplitude=100
+[Wave3]
+Type=0
+StartAngle=0
+StopAngle=360
+Frequency=6
+Amplitude=43

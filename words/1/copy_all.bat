@@ -1,0 +1,2 @@
+del words.pix4
+copy /b beer.tga.pix4+bug.tga.pix4+code.tga.pix4+demo.tga.pix4+design.tga.pix4+drama.tga.pix4+draw.tga.pix4+forums.tga.pix4+friends.tga.pix4+home.tga.pix4+hype.tga.pix4+irc.tga.pix4+laught.tga.pix4+love.tga.pix4+money.tga.pix4+night.tga.pix4+party.tga.pix4+phone.tga.pix4+platform.tga.pix4+pouet.tga.pix4+print.tga.pix4+release.tga.pix4+scene.tga.pix4+screw.tga.pix4+show.tga.pix4+speech.tga.pix4+spend.tga.pix4+test.tga.pix4+think.tga.pix4+wars.tga.pix4+web.tga.pix4+weld.tga.pix4+work.tga.pix4+logo.tga.pix4+mfuck.tga.pix4 words.pix4
